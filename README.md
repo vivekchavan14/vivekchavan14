@@ -1,3 +1,6 @@
-### I code.
+I'm currently diving deep into Deep Learning, focusing on:
 
-Email: vivekchavan382@gmail.com
+- Neural Networks
+- Generative Models (GANs)
+- Transformers and beyond
+- Reading and implementing research papers from scratch
